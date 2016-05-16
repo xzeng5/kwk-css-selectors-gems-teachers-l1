@@ -1,0 +1,43 @@
+/* Select the image with a id of ruby */
+
+/*selector for ruby goes here */  {
+  position: absolute;
+  z-index: 1;
+  top: 315px;
+  left: 175px;
+}
+
+/* Select the image with class of emerald */
+
+/*selector for emerald goes here */  {
+  position: absolute;
+  z-index: 2;
+  top: 350px;
+  left: 369px;
+}
+
+/* Select the image inside the element with an id of sand (using its descendant relationship) */
+
+/*selector for sapphire goes here */{
+  position: absolute;
+  z-index: 5;
+  top: 315px;
+  left: 275px;
+}
+
+/* Select the image with the class "yellow_diamond" */
+
+/*selector for yellow diamond goes here */ {
+  position: absolute;
+  z-index: 4;
+  top: 325px;
+  left: 200px;
+}
+
+/* Select the image that has ad id of diamond */
+/*selector for diamond goes here */ {
+  position: absolute;
+  z-index: 3;
+  top: 300px;
+  left: 223px;
+}
