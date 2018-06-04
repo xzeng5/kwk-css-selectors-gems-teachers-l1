@@ -21,7 +21,7 @@ Open `index.html` in the browser by running in terminal `httpserver` and copy
 the provided IP to a new Chrome tab.
 
 You're going to code your solution in `css/gems.css`. Go ahead and open that
-file in the Nitrous text editor, as well as `index.html`. Please don't make any
+file in the Learn IDE text editor, as well as `index.html`. Please don't make any
 changes to `css/style.css` or to `index.html`.
 
 ### Move the Ruby
