@@ -79,7 +79,7 @@ with four gems instead of just one. The sapphire is going to be pretty tricky to
 move. There aren't any IDs or classes defined on the `img` tag. But, if you look
 carefully, you'll notice the `img` tag linking the sapphire is nested inside of
 a `div` with the id `sand`. This `img` tag is known as a child element of the
-parent, which is the `div`.  
+parent, which is the `div`.
 
 ```html
     <div id="sand">
@@ -97,3 +97,4 @@ with the ID `sand`, and from there, look for the `img` child HTML element, and
 apply that styling to the `img`.
 
 Sapphire.  &#10003;
+
