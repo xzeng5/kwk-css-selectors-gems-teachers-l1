@@ -29,7 +29,9 @@
 
 /* Select the image with the class "yellow_diamond" */
 
-/*selector for yellow diamond goes here */ {
+/*selector for yellow diamond goes here */
+
+.yellow_diamond {
   position: absolute;
   z-index: 4;
   top: 325px;
