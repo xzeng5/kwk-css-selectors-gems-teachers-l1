@@ -10,7 +10,8 @@
 
 /* Select the image with class of emerald */
 
-/*selector for emerald goes here */  {
+/*selector for emerald goes here */
+.emerald {
   position: absolute;
   z-index: 2;
   top: 350px;
